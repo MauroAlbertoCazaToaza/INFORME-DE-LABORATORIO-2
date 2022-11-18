@@ -72,6 +72,7 @@ Ahora simulamos en tinkerkad el calculo de la intensaidad de la corriente
 
 ## 4. VIDEO
 
+https://youtu.be/7re5YRATUcA
 
 
 ## 5. CONCLUSIONES
