@@ -1,4 +1,8 @@
 # INFORME-DE-LABORATORIO-2
+Integrantes
+Javier Arias
+Mauro Caza
+Joel Velastegui
 # Informe-Laboratorio-2
 ## 1. OBJETIVOS
 
